@@ -42,7 +42,7 @@ export function TaskList() {
     <section className="task-list container">
       <header>
         <h2>Minhas tasks</h2>
-        <div className="input-group">
+        <div className="input-group"> 
           <input
             type="text"
             placeholder="Adicionar novo todo"
